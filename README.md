@@ -1,2 +1,2 @@
-# docs
+# AOBuilder Documentation
 AOBuilder Documentation
